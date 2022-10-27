@@ -18,5 +18,3 @@ for podstr in stroka:
 one = round(super_s/len_stroki * 100)
 two = round(lower_s/len_stroki * 100)
 print("Заглавных букв: {0}%, Строчных букв: {1}%".format(one,two))
-
-
